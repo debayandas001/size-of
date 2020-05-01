@@ -1,0 +1,8 @@
+#include<iostream>
+int main()
+{
+	std::cout<<"Size of char: "<<sizeof(char);
+	std::cout<<"\nSize of int: "<<sizeof(int);
+	std::cout<<"\nSize of float: "<<sizeof(float);
+	std::cout<<"\nSize of double: "<<sizeof(double);
+}
